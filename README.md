@@ -12,7 +12,7 @@ A color palette based on [Flat UI](http://designmodo.github.io/Flat-UI/) theme.
 
 The `install.sh` shell script inside the repo will automatically install `Flat.clr` and `Flat.aco` inside your library.
 
-The script assumes you're using the latest Adobe Photoshop CC 2015, in case you're using a different version, you'll need to modify the installation path contained in the variable `PS_PATH`.
+The script assumes you're using the latest Adobe Photoshop CC 2015. In case you're using a different version, you'll need to modify the installation path contained in the variable `PS_PATH` or follow manual installation instructions.
 
 ### Manual installation
 
