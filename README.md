@@ -7,6 +7,7 @@ A color palette based on [Flat UI](http://designmodo.github.io/Flat-UI/) theme.
 - `Flat.aco`: the Adobe Color file for use in Adobe Photoshop.
 - `Flat.ase`: the Adobe Swatch Exchange file for use in all Adobe programs.
 - `Flat.clr`: the Apple color palette file for use in OS X color pickers.
+- `Flat.sketchpalette`: the color palette for use in Sketch 3.x with [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) plugin installed.
 
 ## Installation
 
@@ -19,6 +20,7 @@ The script assumes you're using the latest Adobe Photoshop CC 2015. In case you'
 1. Copy `Flat.clr` inside `~/Library/Colors/`.
 2. Copy `Flat.aco` inside `~/Library/Apllication Support/Adobe/<Your Adobe Photoshop version>/Presets/Color Swatches/`.
 3. Load `Flat.ase` from your Adobe program.
+4. Load palette from Plugins menu in Sketch 3.x.
 
 ## Contact
 
